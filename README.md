@@ -1,7 +1,7 @@
 # E-Commerce Data Analysis
 
 ### Introduction
-In this mini project we use the dataset provided by Instacart and upload it to Postgresql Database through Python Script for further Analysis
+In this project we use the dataset provided by Instacart and upload it to Postgresql Database through Python Script for further Analysis
 
 ### About Dataset
 This dataset contains products and their information as provided by [Instacart](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
@@ -23,7 +23,8 @@ This dataset contains products and their information as provided by [Instacart](
     + Insert data
 * Database Analysis :
     + Validate Data
-    + Perform Analysis
+    + Create Views for Analysis
+    + Create function for end user access and output CSV generation
 
 ### Python Packages used
 ```
